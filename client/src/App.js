@@ -1,7 +1,6 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { Home, Landing, Form, Detail, NotFound } from './views';
 
-
 function App() {
   return (
     <BrowserRouter>
