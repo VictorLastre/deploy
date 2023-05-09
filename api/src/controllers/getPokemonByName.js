@@ -2,7 +2,7 @@ const { Pokemon, Type } = require("../db");
 const axios = require("axios")
 const { Sequelize } = require('sequelize');
 
-const URL = process.env.URL;
+const URL = 'https://pokeapi.co/api/v2/pokemon/'
 
 const getPokemonByName = async (name) => {
     const pokemon = []

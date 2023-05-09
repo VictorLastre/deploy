@@ -2,7 +2,7 @@ require('dotenv').config();
 const axios = require("axios");
 const { Pokemon, Type } = require("../db");
 
-const URL = process.env.URL;
+const URL = 'https://pokeapi.co/api/v2/pokemon/'
 
 const getPokemonById = async (id, source) => {
     let pokemonApi = {}
