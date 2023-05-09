@@ -1,0 +1,70 @@
+.pokemon_card_container{  
+  width: 180px;
+  height: auto;
+  margin: 5px;
+  padding: 1px;  
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px black;  
+}
+  .background{
+    text-align: center;    
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;    
+}
+
+  .image{
+    padding-top: 20px;
+    padding-bottom: 0;
+    width: 100px;
+    height: 100px;  
+    filter: drop-shadow(0 0 0.75rem white);  
+}
+
+  .pokemonInfo {    
+    padding: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;   
+    
+  }
+
+  .name{
+    text-align: center;
+    font-size: 15px;          
+    letter-spacing: 3px; 
+    color:black;
+    text-shadow: 1px 1px 1px white;
+  }
+  .logitos{
+    margin:0 auto;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    padding: 0;
+  }
+  .img_logitos{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+  }
+  .types {
+    margin:0 auto;
+    width: 177px;
+    height: 177px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    padding: 0;
+    letter-spacing: 5px;
+  }
+
+  .type {    
+    font-size: 18px;
+    color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 10px;
+  }
+
+  /******************/

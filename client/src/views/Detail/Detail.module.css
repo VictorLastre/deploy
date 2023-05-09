@@ -1,0 +1,134 @@
+.bigDiv {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  margin: 0 auto;
+}
+.container{
+  max-width: 100%;
+  border-radius: 20px;
+  margin: 50px 50px;
+  overflow: hidden;
+  background-color: #f8f8f88f;
+  box-shadow: 0px 0px 10px #333333;
+  padding: 50px;
+  justify-content: center;
+  align-items: center; 
+}
+.pokemon_card_container {
+  width: 420px;
+  height: auto;
+  margin: 5px;
+  padding: 1px;
+  border-radius: 10px;
+  filter: drop-shadow(0 0 0.75rem black);
+  justify-content: center;  
+}
+.background {
+  text-align: center;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  filter: drop-shadow(0 0 0.75rem white);
+  transition: transform .2s;
+}
+.image:hover{
+  transform: scale(1.5); 
+}
+.logitos {
+  margin: 0 auto;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  align-items: center;
+}
+.img_logitos {
+  margin: 5px;
+  width: 50px;
+  height: 50px;
+  filter: drop-shadow(0 0 0.75rem black);
+}
+.pokemonInfo {
+  width: auto;
+  text-align: left;
+  padding: 20px;
+  margin-top: 0;
+  position: relative;  
+}
+.label_detail{
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin:0 auto;
+  padding: 5px;
+}
+
+.name {
+  font-size: 35px;
+  color: #333;
+  margin: 0 auto;
+  padding: 5px;
+  text-align: center;
+  filter: drop-shadow(0 0 0.75rem white);
+}
+.types {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+.container {
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+}
+.pokemon_id{
+  font-size: 25px;
+  text-align: center;  
+}
+.table {
+  justify-self: center;
+  border-radius: 20px;
+  background-color: #f8f8f88f;
+  box-shadow: 0px 0px 10px #333333;
+  padding: 10px;
+  width: auto;
+}
+
+.stats_container {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.backButton{    
+  background:    #444444;
+  border:        3px solid #eeeeee;
+  border-radius: 11px;    
+  padding:       10px 10px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal 20px/1 "Hollow";
+  letter-spacing: 2px;
+  text-align:    center;
+  text-shadow:   1px 1px #000000;
+  margin: 20px;
+  text-transform: uppercase;
+}
+.backButton:hover {    
+  border:        3px solid #444444; 
+  background:    #fffdfd;
+  color: #000000;
+}
+
+.icons{
+  width: 35px;
+  height: 35px;  
+  vertical-align: middle;  
+}

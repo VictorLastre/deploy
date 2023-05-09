@@ -1,0 +1,60 @@
+.normal{
+    background-image: url(../../images/types/normal.png);     
+}
+.fighting{
+    background-image: url(../../images/types/fighting.png);
+}
+.flying{
+    background-image: url(../../images/types/flying.png);
+}
+.poison{
+    background-image: url(../../images/types/poison.png);
+}
+.ground{
+    background-image: url(../../images/types/ground.png);
+}
+.rock{
+    background-image: url(../../images/types/rock.png);
+}
+.bug{
+    background-image: url(../../images/types/bug.png);
+}
+.ghost{
+    background-image: url(../../images/types/ghost.png);
+}
+.steel{
+    background-image: url(../../images/types/steel.png);
+}
+.fire{
+    background-image: url(../../images/types/fire.png);
+}
+.water{
+    background-image: url(../../images/types/water.png);
+}
+.grass{
+    background-image: url(../../images/types/grass.png);
+}
+.electric{
+    background-image: url(../../images/types/electric.png);
+}
+.psychic{
+    background-image: url(../../images/types/psychic.png);
+}
+.ice{
+    background-image: url(../../images/types/ice.png);
+}
+.dragon{
+    background-image: url(../../images/types/dragon.png);
+}
+.dark{
+    background-image: url(../../images/types/dark.png);
+}
+.fairy{
+    background-image: url(../../images/types/fairy.png);
+}
+.unknown{
+    /* background-image: url(../../images/types/unknown.png); */
+}
+.shadow{
+    background-image: url(../../images/types/shadow.png);
+}

@@ -1,0 +1,84 @@
+.normal{
+    background: linear-gradient(0deg, #cccccc, #595959);
+    border-radius: 15px;
+    color: #222222;    
+}
+.fighting{
+    background: linear-gradient(0deg, #fdca9b, #fc8c22);
+    border-radius: 15px;           
+}
+.flying{
+    /* background-color: #96c8db; */
+    background: linear-gradient(0deg, #c6e1eb, #67afcb);
+    border-radius: 15px;
+}
+.poison{
+    background: linear-gradient(0deg, #e797b5, #681836);
+    border-radius: 15px;    
+}
+.ground{
+    background: linear-gradient(0deg, #dfd0b9, #8c6e40);
+    border-radius: 15px;      
+}
+.rock{
+    background: linear-gradient(0deg, #d0c8cc, #a6999f);
+    border-radius: 15px; 
+}
+.bug{
+    background: linear-gradient(0deg, #b1c46e, #65742f);
+    border-radius: 15px;     
+}
+.ghost{
+    background: linear-gradient(0deg, #8080ff   , #000033);
+    border-radius: 15px;    
+    color: #222222;
+}
+.steel{
+    background: linear-gradient(0deg, #d9d9d9   , #4c4c4c);
+    border-radius: 15px;        
+}
+.fire{
+    background: linear-gradient(0deg, #ff9b80   , #e63200);
+    border-radius: 15px;    
+}
+.water{
+    background: linear-gradient(0deg, #daf1ee   , #56c0ae);
+    border-radius: 15px;       
+}
+.grass{
+    background: linear-gradient(0deg, #c4f0a8, #55b01e);
+    border-radius: 15px;
+}
+.electric{
+    background: linear-gradient(0deg, #ffe066, #FFCB05);
+    border-radius: 15px;    
+}
+.psychic{
+    background: linear-gradient(0deg, #eded91, #e0df42);
+    border-radius: 15px; 
+}
+.ice{
+    background: linear-gradient(0deg, #abc8ed, #2969bc);
+    border-radius: 15px; 
+}
+.dragon{
+    background: linear-gradient(0deg, #91ee9a, #158420);
+    border-radius: 15px; 
+}
+.dark{
+    background: linear-gradient(0deg, #b7b0cf, #332d49);
+    border-radius: 15px;
+}
+.fairy{
+    background: linear-gradient(0deg, #febab3, #fd4635);
+    border-radius: 15px;
+}
+.unknown{
+    background: linear-gradient(0deg, #bfbfbf, #595959);
+    border-radius: 15px;
+    color: #222222;
+}
+.shadow{
+    background: linear-gradient(0deg, #bfbfbf, #1e1e1e);
+    border-radius: 15px;    
+}

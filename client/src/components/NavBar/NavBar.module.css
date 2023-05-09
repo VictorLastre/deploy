@@ -1,0 +1,46 @@
+.navbar {
+    overflow: hidden;
+    top: 0;  
+    position: fixed;
+    display: flex;
+    justify-content: space-between;    
+    width: 98vw;
+    height: 90px;
+    background-color: #333333;            
+    font-family: 'Hollow';  
+    letter-spacing: 43x;    
+  }
+
+  .logo img{
+    width: 80px;
+    margin: 0 auto;
+  }
+
+  .navLinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .link {
+    background:    #444444;
+    border:        3px solid #eeeeee;
+    border-radius: 11px;    
+    padding:       10px 10px;
+    color:         #ffffff;    
+    font:          normal 14px/1 "Hollow";
+    letter-spacing: 2px;
+    text-align:    center;
+    text-shadow:   1px 1px #000000;
+    margin: 20px;    
+    margin-top:-10px;
+    text-transform: uppercase;    
+  }
+  
+  .link:hover {   
+    border:        3px solid #444444; 
+    background:    #fffdfd;
+    color: #000000;
+  }
+  
